@@ -1,4 +1,8 @@
-## 🛠 Technologies & Tools
+## 👋 Hi, I'm Joachim!
+ 
+ Welcome to my GitHub profile! I'm a Computer Science student, technology enthusiast and a problem solver who loves diving into new challenges. 
+
+### 🛠 Technologies & Tools
 
 - Programming Languages: **Python, Java, JavaScript, Elixir**
 - Frameworks: **React, Django, Phoenix**

@@ -1,6 +1,4 @@
-## 👋 Hi, I'm Joachim!
- 
- Welcome to my GitHub profile!
+## 👋 Hello World, I'm Joachim! Welcome to my GitHub profile!
 
 ### 🛠 Technologies & Tools
 

@@ -16,6 +16,6 @@
 ### 🌟 A Little About Me
 
 - When I'm not coding, I enjoy:
-  - 📚 Reading sci-fi novels and technical books on computers
+  - 📚 Reading sci-fi novels and technical books on computers and programming
   - 🎸 Playing bass
   - 🏞️ Hiking and exploring nature

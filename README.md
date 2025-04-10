@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Joachim!
  
- Welcome to my GitHub profile! I'm a Computer Science student, technology enthusiast and a problem solver who loves diving into new challenges. 
+ Welcome to my GitHub profile! I'm a Computer Science student, technology enthusiast, and a problem solver who loves diving into new challenges. 
 
 ### 🛠 Technologies & Tools
 

@@ -8,7 +8,7 @@
 
 ### 🌱 Learning & Interests
 
-- Currently learning: **TypeScript, Go**
+- Currently learning: **TypeScript**
 - Interested in: **Software Development, Cybersecurity, Machine Learning**
 
 ### 🌟 A Little About Me
